@@ -238,7 +238,7 @@ These come from associations in a fictional dataset, so they are questions an HR
 Requires Python 3. The notebook runs top to bottom in under a minute. The results above were produced with Python 3.13 and these package versions: pandas 3.0.5, NumPy 2.5.3, scikit-learn 1.9.1, matplotlib 3.11.2, seaborn 0.13.2. Results may differ slightly with other versions.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Muhammad95Waseem/employee-attrition-prediction.git
 cd employee-attrition-prediction
 
 python -m venv .venv
